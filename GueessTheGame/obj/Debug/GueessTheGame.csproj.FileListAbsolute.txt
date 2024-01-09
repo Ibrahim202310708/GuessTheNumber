@@ -1,0 +1,10 @@
+C:\Users\imalk\source\repos\GueessTheGame\GueessTheGame\obj\Debug\GueessTheGame.csproj.AssemblyReference.cache
+C:\Users\imalk\source\repos\GueessTheGame\GueessTheGame\obj\Debug\GuessTheNumberGame.GuessTheGame.resources
+C:\Users\imalk\source\repos\GueessTheGame\GueessTheGame\obj\Debug\GueessTheGame.Properties.Resources.resources
+C:\Users\imalk\source\repos\GueessTheGame\GueessTheGame\obj\Debug\GueessTheGame.csproj.GenerateResource.cache
+C:\Users\imalk\source\repos\GueessTheGame\GueessTheGame\obj\Debug\GueessTheGame.csproj.CoreCompileInputs.cache
+C:\Users\imalk\source\repos\GueessTheGame\GueessTheGame\bin\Debug\GueessTheGame.exe.config
+C:\Users\imalk\source\repos\GueessTheGame\GueessTheGame\bin\Debug\GueessTheGame.exe
+C:\Users\imalk\source\repos\GueessTheGame\GueessTheGame\bin\Debug\GueessTheGame.pdb
+C:\Users\imalk\source\repos\GueessTheGame\GueessTheGame\obj\Debug\GueessTheGame.exe
+C:\Users\imalk\source\repos\GueessTheGame\GueessTheGame\obj\Debug\GueessTheGame.pdb
